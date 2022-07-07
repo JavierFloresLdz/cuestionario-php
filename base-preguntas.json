@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": "Cuestionario PHP",
+        "pregunta": "¿Cuáles son los 3 niveles de alcance (scope levels) disponibles en PHP?",
+        "respuesta": "Private, Public y Protected",
+        "incorrecta1": "Private, Public y Char",
+        "incorrecta2": "Integer, Private y Char",
+        "incorrecta3": "Private, Public y Integer\r"
+    },
+    {
+        "categoria": "Cuestionario PHP",
+        "pregunta": "¿Por qué usarías === en lugar de ==?",
+        "respuesta": "Para comprobar un tipo determinado como entero o un booleano",
+        "incorrecta1": "Para conversion",
+        "incorrecta2": "Para definir correctamente el tipo de dato",
+        "incorrecta3": "Para comprobar que el tipo de dato es booleano\r"
+    },
+    {
+        "categoria": "Cuestionario PHP",
+        "pregunta": "¿Qué son los Traits?",
+        "respuesta": "Mecanismo PHP que no admite la herencia múltiple",
+        "incorrecta1": "Mecanismo PHP que admite la herencia múltiple",
+        "incorrecta2": "Mecanismo PHP que se instancia por si mismo",
+        "incorrecta3": "Mecanismo PHP que cumple la misma función de un arreglo\r"
+    },
+    {
+        "categoria": "Cuestionario PHP",
+        "pregunta": "¿Qué son los getters y los setters",
+        "respuesta": "Son métodos que se utilizan para obtener los valores que tienen las variables",
+        "incorrecta1": "Son métodos que se utilizan para obtener las claves de las variables",
+        "incorrecta2": "Son métodos que se utilizan para eliminar los valores que tienen las variables",
+        "incorrecta3": "Son métodos que se utilizan para actualizar los valores que tienen las variables\r"
+    },
+    {
+        "categoria": "Cuestionario PHP",
+        "pregunta": "¿Cuál es la diferencia entre GET y POST?",
+        "respuesta": "GET es utilizado para recuperar datos. POST para insertar y actualizar",
+        "incorrecta1": "GET presenta datos que se envían como parte de la URL, mientras en POST presenta la información como texto plano.",
+        "incorrecta2": "GET puede utilizar hasta 2048 caracteres, POST solamente 50.",
+        "incorrecta3": "GET sólo acepta datos ASCI77, POST acepta cualquier tipo de datos, menos los binarios\r"
+    }
+]
